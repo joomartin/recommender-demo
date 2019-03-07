@@ -1,7 +1,10 @@
 Id,Name,Description,City,State
-1,Budapest kártya kocsmatúra,Budapesti kártyák bármelyik kocsmába szóba jöhet asztalok,Budapest,Pest
-2,Budapest kártya múzeum,ingyenes belépés a város 12 múzeumába,Budapest,Pest
-3,Budapest kártya kocsmatúra 2,Budapesti kártya bármelyik kocsma szóba jöhet,Budapest,Pest
+1,Budapest kártya kocsmatúra,Budapesti kártyák bármelyik kocsma szóba jöhet asztalok,Budapest,Pest
+2,Budapest kártya múzeum,ingyenes belépés 12 múzeum,Budapest,Pest
+3,Budapest kártya mozi,Budapesti kártya bármelyik mozi film,Budapest,Pest
 4,Szombathely karnevál kártya,Savaria karnevál,Szombathely,Vas
 5,Szombathely múzeum kártya,Szombathely múzeumok,Szombathely,Vas
 6,Sárvár fürdő,sárvári termál kristály,Sárvár,Vas
+7,Celldömölk múzeum,celli múzeumok,Celldömölk,Vas
+8,Vasvár múzeum,vasvári múzeumok,Vasvár,Vas
+9,Dunaújváros mozi,mozi kártya film,Dunaújváros,Pest
